@@ -1,1 +1,8 @@
-
+{
+  "accounts": [
+    {
+      "username": "crimson",
+      "password": "supercoolpassword"
+    }
+  ]
+}
